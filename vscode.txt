@@ -1,0 +1,14 @@
+My settings:
+
+{
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Monaco",
+  "editor.insertSpaces": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.wordWrap": "on",
+
+  "explorer.autoReveal": false,
+  "workbench.colorTheme": "Monokai",
+  "workbench.activityBar.visible": false
+}
